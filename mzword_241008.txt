@@ -1,7 +1,6 @@
 [
     {
         "publicable_id": "1112668",
-        "svc_mgmt_num": "s:9e8b1e57f287a5a878cbc007c7f32fe1a580800ca01770f672408d7b490c29fe",
         "sex_cd": "2",
         "age_grp": "20",
         "wakeup_wday": "08:40",
@@ -31,7 +30,6 @@
     },
     {
         "publicable_id": "1110450",
-        "svc_mgmt_num": "s:ca7df80e3457905c6e2e07186a6716ce56d04c0f33e8b63d6cebfb9c3b0a945a",
         "sex_cd": "1",
         "age_grp": "40",
         "wakeup_wday": "09:01",
@@ -61,7 +59,6 @@
     },
     {
         "publicable_id": "1111250",
-        "svc_mgmt_num": "s:b9977140d6bcf79c15ba7fa3d43ac4786373099c49c9df12a867f7673cf9c377",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "09:40",
@@ -91,7 +88,6 @@
     },
     {
         "publicable_id": "1111627",
-        "svc_mgmt_num": "s:7c61dec7c1faf77c198f2479bb134263d380a008f06fd9c94a6588dde9f58310",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "09:17",
@@ -121,7 +117,6 @@
     },
     {
         "publicable_id": "1113822",
-        "svc_mgmt_num": "s:45d0c7c55260e11a02aa4819366b8d0bfc01db8656a634265c31056be0776173",
         "sex_cd": "1",
         "age_grp": "30",
         "wakeup_wday": "06:36",
@@ -151,7 +146,6 @@
     },
     {
         "publicable_id": "1111594",
-        "svc_mgmt_num": "s:6e539ffb9001e20f0253d1e6c460866030988c45407c7d749697c5ec85469e39",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "08:18",
@@ -181,7 +175,6 @@
     },
     {
         "publicable_id": "1109271",
-        "svc_mgmt_num": "s:93b906da62f3b8772695d2748e73d7709500cc6cbc69b115429434232f5c24c7",
         "sex_cd": "1",
         "age_grp": "50",
         "wakeup_wday": "06:39",
@@ -205,7 +198,6 @@
     },
     {
         "publicable_id": "1110538",
-        "svc_mgmt_num": "s:10b0d0c0282ce197f1402608b9fd3d6be9b03fe35ba3188a9f1dc0b0e2023cd4",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "08:50",
@@ -235,7 +227,6 @@
     },
     {
         "publicable_id": "1112463",
-        "svc_mgmt_num": "s:a137150035d390cbdb89917ef29ed2c0a2212f15f8339bd24a3b151b1726ec18",
         "sex_cd": "1",
         "age_grp": "40",
         "wakeup_wday": "07:14",
@@ -265,7 +256,6 @@
     },
     {
         "publicable_id": "1109433",
-        "svc_mgmt_num": "s:7abeb8ecfcc57332dca6e5cb412209299cc29447ef1985618422c9a2bb1c604c",
         "sex_cd": "1",
         "age_grp": "40",
         "wakeup_wday": "09:10",
@@ -295,7 +285,6 @@
     },
     {
         "publicable_id": "1111660",
-        "svc_mgmt_num": "s:024d5116d1a5e14d417da0aaedf0c08a9190e5974a02ae1c0aefc3fee62aef15",
         "sex_cd": "1",
         "age_grp": "40",
         "wakeup_wday": "07:28",
@@ -325,7 +314,6 @@
     },
     {
         "publicable_id": "1112055",
-        "svc_mgmt_num": "s:e498d43a94687ca1776a219c1d0282c0f4ebd3ce536b1e58959f12eb6ba0d064",
         "sex_cd": "1",
         "age_grp": "30",
         "wakeup_wday": "08:29",
@@ -355,7 +343,6 @@
     },
     {
         "publicable_id": "1113422",
-        "svc_mgmt_num": "s:99c16baa91ac0053c956913c65b6ff6ed5744034c59aa0bab9cf51939eee4c3d",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "09:44",
@@ -382,7 +369,6 @@
     },
     {
         "publicable_id": "1110588",
-        "svc_mgmt_num": "s:b0a73cb48e08bb9f781cb83a51d73d6fc4b03766b38bcaf610e0fbb5b030deff",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "08:38",
@@ -406,7 +392,6 @@
     },
     {
         "publicable_id": "1109439",
-        "svc_mgmt_num": "s:aed1186f817991f363071e55c159777ead90a5ecf3e0a1deda703abcb9973033",
         "sex_cd": "1",
         "age_grp": "30",
         "wakeup_wday": "09:20",
@@ -436,7 +421,6 @@
     },
     {
         "publicable_id": "1112905",
-        "svc_mgmt_num": "s:9af5795b71c8a1e1fa45b56cfd56d9813dc74fb61067e4a0efa5fb70a2f8fe30",
         "sex_cd": "2",
         "age_grp": "30",
         "wakeup_wday": "08:37",
@@ -466,7 +450,6 @@
     },
     {
         "publicable_id": "1112007",
-        "svc_mgmt_num": "s:9bcd65d456dc187c3ac9023dd692ca92ed4c80b8feb393dd61e6ae62aaf8135b",
         "sex_cd": "1",
         "age_grp": "40",
         "wakeup_wday": "08:57",
@@ -490,7 +473,6 @@
     },
     {
         "publicable_id": "1070729",
-        "svc_mgmt_num": "s:a06094e90312b181158507335d4a38acbf57fac64ccfc5913b0968a76ff9ca91",
         "sex_cd": "1",
         "age_grp": "50",
         "wakeup_wday": "07:27",
