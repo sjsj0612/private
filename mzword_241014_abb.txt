@@ -30,7 +30,29 @@
         "visit_wday_style": "자주 일정한 곳 외출",
         "wakeup_hday_style": "매우 일찍 기상",
         "sleep_hday_style": "늦게 취침",
-        "visit_hday_style": "자주 일정한 곳 외출"
+        "visit_hday_style": "가끔 일정한 곳 외출"
+    },
+    {
+        "publicable_id": "1109433",
+        "wakeup_wday_style": "매우 늦게 기상",
+        "sleep_wday_style": "일찍 취침",
+        "work_wday_start_style": "늦게 출근",
+        "work_wday_end_style": "늦게 퇴근",
+        "visit_wday_style": "자주 일정한 곳 외출",
+        "wakeup_hday_style": "매우 늦게 기상",
+        "sleep_hday_style": "매우 늦게 취침",
+        "visit_hday_style": "가끔 일정한 곳 외출"
+    },
+    {
+        "publicable_id": "1109271",
+        "wakeup_wday_style": "매우 일찍 기상",
+        "sleep_wday_style": "늦게 취침",
+        "work_wday_start_style": "NA",
+        "work_wday_end_style": "NA",
+        "visit_wday_style": "자주 일정한 곳 외출",
+        "wakeup_hday_style": "일찍 기상",
+        "sleep_hday_style": "매우 늦게 취침",
+        "visit_hday_style": "가끔 다양한 곳 외출"
     },
     {
         "publicable_id": "1111594",
@@ -42,17 +64,6 @@
         "wakeup_hday_style": "일찍 기상",
         "sleep_hday_style": "늦게 취침",
         "visit_hday_style": "자주 다양한 곳 외출"
-    },
-    {
-        "publicable_id": "1109271",
-        "wakeup_wday_style": "매우 일찍 기상",
-        "sleep_wday_style": "늦게 취침",
-        "work_wday_start_style": "NA",
-        "work_wday_end_style": "NA",
-        "visit_wday_style": "자주 일정한 곳 외출",
-        "wakeup_hday_style": "일찍 기상",
-        "sleep_hday_style": "매우 늦게 취침",
-        "visit_hday_style": "자주 일정한 곳 외출"
     },
     {
         "publicable_id": "1110538",
@@ -107,18 +118,7 @@
         "visit_wday_style": "가끔 일정한 곳 외출",
         "wakeup_hday_style": "늦게 기상",
         "sleep_hday_style": "일찍 취침",
-        "visit_hday_style": "가끔 일정한 곳 외출"
-    },
-    {
-        "publicable_id": "1109433",
-        "wakeup_wday_style": "매우 늦게 기상",
-        "sleep_wday_style": "일찍 취침",
-        "work_wday_start_style": "늦게 출근",
-        "work_wday_end_style": "늦게 퇴근",
-        "visit_wday_style": "자주 일정한 곳 외출",
-        "wakeup_hday_style": "매우 늦게 기상",
-        "sleep_hday_style": "매우 늦게 취침",
-        "visit_hday_style": "자주 일정한 곳 외출"
+        "visit_hday_style": "자주 다양한 곳 외출"
     },
     {
         "publicable_id": "1111660",
@@ -162,7 +162,7 @@
         "visit_wday_style": "자주 다양한 곳 외출",
         "wakeup_hday_style": "늦게 기상",
         "sleep_hday_style": "일찍 취침",
-        "visit_hday_style": "자주 다양한 곳 외출"
+        "visit_hday_style": "자주 일정한 곳 외출"
     },
     {
         "publicable_id": "1112905",
@@ -195,7 +195,7 @@
         "visit_wday_style": "자주 일정한 곳 외출",
         "wakeup_hday_style": "일찍 기상",
         "sleep_hday_style": "NA",
-        "visit_hday_style": "자주 일정한 곳 외출"
+        "visit_hday_style": "자주 다양한 곳 외출"
     }
 ]
 
